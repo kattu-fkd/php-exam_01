@@ -5,7 +5,6 @@ $Parakeet = new Bard("P-chan","ピーピー");
 $Parakeet->cry();
 $Parakeet->catch();
 $Parakeet->catch();
-$Parakeet->catch();
 $Crow = new Bard("K-kun","カーカー");
 $Parakeet->be_friends_with("Crow");
 $Parakeet->be_friends_with("Swan");
